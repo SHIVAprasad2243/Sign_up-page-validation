@@ -11,6 +11,7 @@ public class Sign_UP {
 	public static ArrayList <String> list = new ArrayList<String>();
     static String gmail;
     static String name;
+	
     static String gender;
     static String password;
     static String mobile;
